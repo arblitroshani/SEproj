@@ -5,7 +5,7 @@ Current state of work
 _(Will be updated after the project topic is determined)_
 
 - We exchanged contact information (phone no.) and determined the communication platforms, creating a WhatsApp group and respective Trello accounts.
-- We determined to meet twice a week, once in the weekend and once on Tuesdays. This meeting plan may be subject to change based on our timetables.
+- We decided to meet twice a week, once in the weekend and once on Tuesdays. This meeting plan may be subject to change based on our timetables.
 - Our communication channels are as follow: Trello, Whatsapp, e-mail.
 - We assigned Arbli Troshani as our Team Leader.
 - We assigned team roles as follows:
