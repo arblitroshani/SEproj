@@ -31,7 +31,9 @@ _(Will be updated after the project topic is determined)_
     - A portal where users find solutions to their household/workplace repair issues by creating issues and awaiting professionals to responds. This portal would be designed with the professionals&#39; careers in mind.
   - Gerd: Payroll Management System
     - An easy to use management system suited to the workplace in both public and private institutions. This system would aim at monitoring and validating the work done by employees on a daily/weekly/monthly basis. The system would also facilitate the submission of work reports, bonuses, absence leaves etc.
+    
   - Enxhi: Dentistry Management System (Current Choice)
     - A mobile-based application to manage the entire process of work that takes place in a Dental Clinic, starting from the management of Visits &amp; Treatments, to the management of the logistics.
+    
   - Egi: Workspace Management System.
     - A system suited to the academic process, by which every student would be able to manage their workspace based on their interests, courses and assignments. This system would provide students with the choice of managing their personal space and group/classroom spaces.
