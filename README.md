@@ -1,9 +1,7 @@
 # DCMS (Dental Clinic Management System)
 
-- manage a network of dental clinics (multiple locations and doctors)
-- maintain entire clinical administration
 - serve as a time-saving tool for dentists and practitioners
-- manage interns
+- manage logistics
 - perio charting (teeth chart)
 - easy reservations
 - enhance business performance
