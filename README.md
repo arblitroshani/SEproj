@@ -43,10 +43,6 @@ medical files.
 * **[Enxhi Ferhati](https://github.com/eferhati15)** - [personal log](https://github.com/arblitroshani/SEproj/wiki/Enxhi-Ferhati-Personal-Log)
 * **[Egi Gjevori](https://github.com/egjevori15)** - [personal log](https://github.com/arblitroshani/SEproj/wiki/Egi-Gjevori-Personal-Log)
 
-
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
