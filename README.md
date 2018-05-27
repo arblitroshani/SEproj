@@ -16,6 +16,7 @@ medical files.
 - Pay treatments online<br>
 - Communicate with the doctor and administrator from the app<br>
 - Offline-first mobile app
+- Handle non-registered users (appointments, treatments, seamless account merging)
 
 ## Software components
 
