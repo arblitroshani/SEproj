@@ -15,6 +15,7 @@ medical files.
 - Access personal medical files and anamnesis<br>
 - Pay treatments online<br>
 - Communicate with the doctor and administrator from the app<br>
+- Offline-first mobile app
 
 ## Software components
 
