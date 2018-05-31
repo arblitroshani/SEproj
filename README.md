@@ -33,7 +33,7 @@ medical files.
 * [Web Sockets](https://socket.io/) for asynchronous communication in the web app
 * [Materializecss](https://materializecss.com/) and [jQuery UI](https://jqueryui.com/) - frontend frameworks
 
-## Libraries used (Android)
+## Open Source Libraries used (Android application)
 
 * [Tibolte/AgendaCalendarView](https://github.com/Tibolte/AgendaCalendarView) for the calendar
 * [BlinkID/blinkid-android](https://github.com/BlinkID/blinkid-android) for extracting data from ID cards
