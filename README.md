@@ -27,11 +27,10 @@ medical files.
 
 * [Cloud Firestore](https://firebase.google.com/docs/firestore/) and [Realtime Database](https://firebase.google.com/products/realtime-database/) for data persistence
 * [Cloud Storage](https://firebase.google.com/products/storage/) for storing files
-* [Cloud Messaging](https://firebase.google.com/products/cloud-messaging/) and [Cloud Functions](https://firebase.google.com/products/functions/) for sending notifications and other bcakend triggered operations in the database
+* [Cloud Messaging](https://firebase.google.com/products/cloud-messaging/) and [Cloud Functions](https://firebase.google.com/products/functions/) for sending notifications and other backend triggered operations in the database
 * [Twilio](https://www.twilio.com/) for SMS
 * [Express framework](https://expressjs.com/) for Node.js
 * [Web Sockets](https://socket.io/) for asynchronous communication in the web app
-* [Materializecss](https://materializecss.com/) and [jQuery UI](https://jqueryui.com/) - frontend frameworks
 
 ## Open Source Libraries used (Android application)
 
@@ -45,6 +44,14 @@ medical files.
 * [Someonewow/SubmitButton](https://github.com/Someonewow/SubmitButton) 
 * [google/gson](https://github.com/google/gson) convert Java objects to JSON
 * [facebook/Shimmer](https://github.com/facebook/Shimmer) shimmer effect on text and other views
+
+## Open Source Libraries used (Web application)
+
+* [FullCalendar.io](https://fullcalendar.io/) for the calendar
+* [Socket.io](https://socket.io/) for realtime backend-frontend communication
+* [firebase/FirebaseUI-Web](https://github.com/firebase/firebaseui-web) for simpler authentication and JWT validation 
+* [JQuery-UI](https://jqueryui.com/) for frontend functionality enhancement
+* [MaterializeCSS](http://archives.materializecss.com/0.100.2/) for the main UI design
 
 ## Versioning
 
