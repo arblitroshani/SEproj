@@ -33,6 +33,19 @@ medical files.
 * [Web Sockets](https://socket.io/) for asynchronous communication in the web app
 * [Materializecss](https://materializecss.com/) and [jQuery UI](https://jqueryui.com/) - frontend frameworks
 
+## Libraries used (Android)
+
+* [Tibolte/AgendaCalendarView](https://github.com/Tibolte/AgendaCalendarView) for the calendar
+* [BlinkID/blinkid-android](https://github.com/BlinkID/blinkid-android) for extracting data from ID cards
+* [firebase/FirebaseUI-Android](https://github.com/firebase/FirebaseUI-Android) for simpler authentication and storage 
+* [bumptech/glide](https://github.com/bumptech/glide) for image loading and caching
+* [chrisbanes/PhotoView](https://github.com/chrisbanes/PhotoView) full screen image viewer, with zooming support
+* [JakeWharton/butterknife](https://github.com/JakeWharton/butterknife) view binding using annotation processing
+* [rbro112/Android-Indefinite-Pager-Indicator](https://github.com/rbro112/Android-Indefinite-Pager-Indicator) indefinite pager indicator for RecyclerViews and ViewPagers
+* [Someonewow/SubmitButton](https://github.com/Someonewow/SubmitButton) 
+* [google/gson](https://github.com/google/gson) convert Java objects to JSON
+* [facebook/Shimmer](https://github.com/facebook/Shimmer) shimmer effect on text and other views
+
 ## Versioning
 
 * Git and GitHub for version control
