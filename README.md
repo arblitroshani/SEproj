@@ -36,7 +36,8 @@ medical files.
 
 * [Tibolte/AgendaCalendarView](https://github.com/Tibolte/AgendaCalendarView) for the calendar
 * [BlinkID/blinkid-android](https://github.com/BlinkID/blinkid-android) for extracting data from ID cards
-* [firebase/FirebaseUI-Android](https://github.com/firebase/FirebaseUI-Android) for simpler authentication and storage 
+* [firebase/FirebaseUI-Android](https://github.com/firebase/FirebaseUI-Android) for simpler authentication and storage
+* [fabric/crashlytics](https://firebase.google.com/docs/crashlytics/) for tracking crashes and stability issues
 * [bumptech/glide](https://github.com/bumptech/glide) for image loading and caching
 * [chrisbanes/PhotoView](https://github.com/chrisbanes/PhotoView) full screen image viewer, with zooming support
 * [JakeWharton/butterknife](https://github.com/JakeWharton/butterknife) view binding using annotation processing
