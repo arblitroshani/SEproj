@@ -4,9 +4,7 @@ A comprehensive set of tools for managing the entire workflow of a dental clinic
 
 ## Motivation
 
-The motivation for coming up with this idea, was the lack of such a product in the market. There is a very small set of softwares who 
-put emphasis in the customer experience, in things like appointment request facilitations, doctor communications and giving access to personal 
-medical files.
+The motivation for coming up with this idea, was the lack of such a product in the market. There is a very small set of software who put emphasis in customer experience, appointment request facilitations, doctor communications and those who give access to personal medical files.
 
 ## Features
 
