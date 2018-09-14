@@ -54,11 +54,6 @@ medical files.
 * [JQuery-UI](https://jqueryui.com/) for frontend functionality enhancement
 * [MaterializeCSS](http://archives.materializecss.com/0.100.2/) for the main UI design
 
-## Versioning
-
-* Git and GitHub for version control
-* [Gradle](https://gradle.org/) for Android building and versioning
-
 ## Authors
 
 * **[Arbli Troshani](https://github.com/arblitroshani)** - [personal log](https://github.com/arblitroshani/SEproj/wiki/Arbli-Troshani-Personal-Log)
