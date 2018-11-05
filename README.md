@@ -56,8 +56,6 @@ The motivation for coming up with this idea, was the lack of such a product in t
 
 * **[Arbli Troshani](https://github.com/arblitroshani)** - [personal log](https://github.com/arblitroshani/SEproj/wiki/Arbli-Troshani-Personal-Log)
 * **[Gerd Alliu](https://github.com/galliu15)** - [personal log](https://github.com/arblitroshani/SEproj/wiki/Gerd-Alliu-Personal-Log)
-* **[Enxhi Ferhati](https://github.com/eferhati15)** - [personal log](https://github.com/arblitroshani/SEproj/wiki/Enxhi-Ferhati-Personal-Log)
-* **[Egi Gjevori](https://github.com/egjevori15)** - [personal log](https://github.com/arblitroshani/SEproj/wiki/Egi-Gjevori-Personal-Log)
 
 ## License
 
